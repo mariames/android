@@ -1,6 +1,6 @@
 # android
 
-Project : Sample List View With Image
+Project : Simple List View With Image
 
 Sample shows how to make list view in Kotlin
 
